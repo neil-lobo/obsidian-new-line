@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-new-line",
+	"name": "To New Line",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Plugin to insert and go to new line below cursor",
+	"author": "Neil Lobo",
+	"isDesktopOnly": false
+}
